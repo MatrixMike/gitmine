@@ -1,5 +1,3 @@
-
-executable file 10 lines (7 sloc) 251 Bytes
 #!/bin/bash
 sudo apt install asciidoc  ; install for documentation
 make configure ;# as yourself
